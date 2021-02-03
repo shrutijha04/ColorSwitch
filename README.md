@@ -80,7 +80,7 @@ Uses **Java** and **JavaFx**.
  
  ## ScreenShots of the Game
  
- <img src="GameplayScreenshots/1.png" width="800" height="500">
+ <img src="GameplayScreenshots/1.png" width="700" height="500">
  
  
  
