@@ -80,17 +80,17 @@ Uses **Java** and **JavaFx**.
  
  ## ScreenShots of the Game
  
-    <img src="GameplayScreenshots/8.png" width="700" height="500">
+   <img src="GameplayScreenshots/8.png" width="700" height="500">
  
-    <img src="GameplayScreenshots/2.png" width="700" height="500">
+   <img src="GameplayScreenshots/2.png" width="700" height="500">
     
-    <img src="GameplayScreenshots/6.png" width="700" height="500">
+   <img src="GameplayScreenshots/6.png" width="700" height="500">
     
-    <img src="GameplayScreenshots/9.png" width="700" height="500">
+   <img src="GameplayScreenshots/9.png" width="700" height="500">
     
-    <img src="GameplayScreenshots/3.png" width="700" height="500">
+   <img src="GameplayScreenshots/3.png" width="700" height="500">
     
-    <img src="GameplayScreenshots/4.png" width="700" height="500">
+   <img src="GameplayScreenshots/4.png" width="700" height="500">
     
     <img src="GameplayScreenshots/1.png" width="700" height="500">
  
