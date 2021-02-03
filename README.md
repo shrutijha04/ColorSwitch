@@ -64,8 +64,19 @@ Uses **Java** and **JavaFx**.
  2) Iterator - To ensure that collection of Stars and Obstacles are accessed in a synchronized way.
  3) Factory- To create objects of Scenes class (ScenesEasy+ScenesMedium+ScenesDifficult).
  
- ## Threading : 
+ ## Threading 
  All the Animations are done using AnimationTimer , each of which is an individual thread in JVM.
  
- ## 
+ ## How To play on your PC
+
+ Executing the JAR File
+ To play the game, the following steps can be followed:
+
+ 1) Download this repository ColorSwitch.
+ 2) Open command prompt and change directory to ColorSwitch.
+ 3) 
+cd into the directory Plant-Vs-Zombies-JAR using: cd PlantsVsZombies/Plant-Vs-Zombies-JAR
+Download the JavaFX SDK 11.0.2 from here, depending on your platform. Unzip and situate the folder javafx-sdk-11.0.2 in PlantsVsZombies/Plant-Vs-Zombies-JAR
+Execute the command ./PlantsVsZombies.sh . Alternatively, execute the command java --module-path ~/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media -jar PlantVsZombies.jar
+(Note: --module-path specifies the path to your JavaFX SDK 11 lib folder. The variable LIB_PATH in PlantsVsZombies holds the path to the lib folder, and can be updated accordingly.)
 
