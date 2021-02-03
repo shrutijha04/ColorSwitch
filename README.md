@@ -73,10 +73,10 @@ Uses **Java** and **JavaFx**.
  To play the game, the following steps can be followed:
 
  1) Download this repository ColorSwitch and unzip it.
- 2) Open command prompt and change directory to the unzipped folder.
- 3) Then cd into the directory ColorSwitch-JAR using: cd ColorSwitch-JAR.
+ 2) Open command prompt and cd into the unzipped folder.
+ 3) Then cd into the directory ColorSwitch-JAR using: ```cd ColorSwitch-JAR```.
  4) Your PC must have JavaFX SDK 15.0.1 installed. If you don't have it, download from [here](https://gluonhq.com/products/javafx/), depending on your platform.
- 5) Now execute the command: java --module-path <PATH_TO_FX> --add-modules javafx.controls,javafx.fxml,javafx.media -jar ColorSwitch.jar
+ 5) Now execute the command: ```java --module-path <PATH_TO_FX> --add-modules javafx.controls,javafx.fxml,javafx.media -jar ColorSwitch.jar```
  (Note: --module-path specifies the path to your JavaFX SDK 15.0.1 lib folder. Replace <PATH_TO_FX> with that path accordingly.)
  
 
