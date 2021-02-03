@@ -72,11 +72,11 @@ Uses **Java** and **JavaFx**.
  Executing the JAR File
  To play the game, the following steps can be followed:
 
- 1) Download this repository ColorSwitch.
- 2) Open command prompt and change directory to ColorSwitch.
- 3) 
-cd into the directory Plant-Vs-Zombies-JAR using: cd PlantsVsZombies/Plant-Vs-Zombies-JAR
-Download the JavaFX SDK 11.0.2 from here, depending on your platform. Unzip and situate the folder javafx-sdk-11.0.2 in PlantsVsZombies/Plant-Vs-Zombies-JAR
-Execute the command ./PlantsVsZombies.sh . Alternatively, execute the command java --module-path ~/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media -jar PlantVsZombies.jar
-(Note: --module-path specifies the path to your JavaFX SDK 11 lib folder. The variable LIB_PATH in PlantsVsZombies holds the path to the lib folder, and can be updated accordingly.)
+ 1) Download this repository ColorSwitch and unzip it.
+ 2) Open command prompt and change directory to ColorSwitch folder which you unzipped.
+ 3) Then cd into the directory ColorSwitch-JAR using: cd ColorSwitch-JAR.
+ 4) Your PC must have JavaFX SDK 15.0.1 installed. If you don't have it, download from [here](https://gluonhq.com/products/javafx/), depending on your platform.
+ 5) Now execute the command: java --module-path <PATH_TO_FX> --add-modules javafx.controls,javafx.fxml,javafx.media -jar ColorSwitch.jar
+ (Note: --module-path specifies the path to your JavaFX SDK 15.0.1 lib folder. Replace <PATH_TO_FX> with that path accordingly.)
+ 
 
