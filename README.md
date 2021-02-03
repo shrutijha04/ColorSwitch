@@ -1,6 +1,6 @@
-### ColorSwitch
+##### ColorSwitch
 
-#Details
+## Details
 
 Created by: Shruti Jha and Abhinav Gudipati
 
@@ -12,7 +12,7 @@ Made as the course project in Advanced Programming course at IIIT-Delhi.
 
 Uses **Java** and **JavaFx**.
 
-#Features and Implementation
+## Features and Implementation
 
  1) Main Menu: Used to start new game, or load any saved game, to open game rules/instructions, to open leaderboard for highest score, and
  to select day/night mode.
