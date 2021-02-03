@@ -67,7 +67,7 @@ Uses **Java** and **JavaFx**.
  ## Threading 
  All the Animations are done using AnimationTimer , each of which is an individual thread in JVM.
  
- ## How To play on your PC
+ ## How To Play on your PC
 
  Executing the JAR File
  To play the game, the following steps can be followed:
