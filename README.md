@@ -44,11 +44,11 @@ Uses **Java** and **JavaFx**.
  incremented by 1.
  6) Game screen has 3 levels with obstacles of increasing difficulty based on player’s score. Incorporated 74 different scenes with combinations of 13 different
    Obstacles for the sake of variety. The Easy Scenes can be maneuvered by the user, after reaching a certain score, we designed an algorithm where the player would be taken to    a scene of higher difficulty.
-   a) Scenes Easy - 6 obstacles : Circle , Square , Rhombus , Vertical Lines , Horizontal Lines , Plus Sig.n
-   b) Scenes Medium - 6 Obstacles : Concentric Circles (2) , Concentric Squares (2) , Concentric Rhombuses (2) , Vertical Lines ,
-   Horizontal Lines , Plus Sign.
-   c) Scenes Difficult - 6 Obstacles : Concentric Circles (3) , Concentric Squares (3) , Horizontal Lines ( 3 ) , Vertical Lines , Horizontal
-   Lines ( 2 parallel lines ) , Plus Sign.
+   - Scenes Easy - 6 obstacles : Circle , Square , Rhombus , Vertical Lines , Horizontal Lines , Plus Sig.n
+   - Scenes Medium - 6 Obstacles : Concentric Circles (2) , Concentric Squares (2) , Concentric Rhombuses (2) , Vertical Lines ,
+     Horizontal Lines , Plus Sign.
+   - Scenes Difficult - 6 Obstacles : Concentric Circles (3) , Concentric Squares (3) , Horizontal Lines ( 3 ) , Vertical Lines , Horizontal
+     Lines ( 2 parallel lines ) , Plus Sign.
  7) **Pause Menu**: Player can press ‘P’ to pause game at any time. Option available in pause menu are: resume game, restart game, to open
  game rules/instructions, and exit to main menu.
  8) **Save Game and Restart Game options** : Player can save multiple game states. Player can also restart the same game at any point of time.
@@ -79,6 +79,8 @@ Uses **Java** and **JavaFx**.
  (Note: --module-path specifies the path to your JavaFX SDK 15.0.1 lib folder. Replace <PATH_TO_FX> with that path accordingly.)
  
  ## ScreenShots of the Game
+ 
+ !(GameplayScreenshots/1.png)
  
  
  
