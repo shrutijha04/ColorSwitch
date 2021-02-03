@@ -33,7 +33,6 @@ Uses **Java** and **JavaFx**.
 9) **Restart game**:
    Option to restart available in pause menu as well as game alert box.
 
-
 ## Implementation
 
  1) **Main Menu**: Used to start new game, or load any saved game, to open game rules/instructions, to open leaderboard for highest score, and
@@ -78,5 +77,12 @@ Uses **Java** and **JavaFx**.
  4) Your PC must have JavaFX SDK 15.0.1 installed. If you don't have it, download from [here](https://gluonhq.com/products/javafx/), depending on your platform.
  5) Now execute the command: ```java --module-path <PATH_TO_FX> --add-modules javafx.controls,javafx.fxml,javafx.media -jar ColorSwitch.jar```
  (Note: --module-path specifies the path to your JavaFX SDK 15.0.1 lib folder. Replace <PATH_TO_FX> with that path accordingly.)
+ 
+ ## ScreenShots of the Game
+ 
+ 
+ 
+ 
+ 
  
 
