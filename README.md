@@ -80,7 +80,7 @@ Uses **Java** and **JavaFx**.
  
  ## ScreenShots of the Game
  
- !(GameplayScreenshots/1.png)
+ ![](GameplayScreenshots/1.png)
  
  
  
