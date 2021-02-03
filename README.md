@@ -1,4 +1,4 @@
-##### ColorSwitch
+# ColorSwitch
 
 ## Details
 
