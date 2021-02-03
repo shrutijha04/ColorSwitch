@@ -92,7 +92,7 @@ Uses **Java** and **JavaFx**.
     
    <img src="GameplayScreenshots/4.png" width="700" height="500">
     
-    <img src="GameplayScreenshots/1.png" width="700" height="500">
+   <img src="GameplayScreenshots/1.png" width="700" height="500">
  
  
  
